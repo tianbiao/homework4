@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.nightschool.Controller.DiskControllerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2014-12-23T05:16:30" hostname="PC-201212202023" time="0.081">
+  <properties/>
+  <testcase name="test_list_disks_is_non_empty_after_add_a_disk" classname="org.nightschool.Controller.DiskControllerTest" time="0.071"/>
+  <testcase name="test_list_disks_is_empty" classname="org.nightschool.Controller.DiskControllerTest" time="0.0"/>
+  <testcase name="test_list_disks_is_empty_after_remove_a_disk" classname="org.nightschool.Controller.DiskControllerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
